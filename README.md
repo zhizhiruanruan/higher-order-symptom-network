@@ -11,9 +11,9 @@ The repository includes three independent datasets:
 
 | Dataset | Description | File |
 |---------|-------------|------|
-| **CHARLS** | China Health and Retirement Longitudinal Study | `Data/CHARLS_data_all` |
-| **NHANES** | National Health and Nutrition Examination Survey | `Data/NHANES_data_all` |
-| **NHRVS** | A nationally representative sample of U.S. veterans | `Data/NHRVS_data_all` |
+| **CHARLS** | China Health and Retirement Longitudinal Study | `https://charls.pku.edu.cn/` |
+| **NHANES** | National Health and Nutrition Examination Survey | `https://wwwn.cdc.gov/nchs/nhanes/Default.aspx` |
+| **NHRVS** | A nationally representative sample of U.S. veterans | `https://eiko-fried.com/data/` |
 
 **Data Format**: Each dataset should contain:
 - First column: `ID` (participant identifier)
