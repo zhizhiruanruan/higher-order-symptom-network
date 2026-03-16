@@ -9,7 +9,7 @@ This repository contains data and code for constructing and visualizing higher-o
 
 The repository includes three independent datasets:
 
-| Dataset | Description | File |
+| Dataset | Description | Web |
 |---------|-------------|------|
 | **CHARLS** | China Health and Retirement Longitudinal Study | `https://charls.pku.edu.cn/` |
 | **NHANES** | National Health and Nutrition Examination Survey | `https://wwwn.cdc.gov/nchs/nhanes/Default.aspx` |
